@@ -14,5 +14,5 @@ brew cask reinstall jmerise-mac
 
 ### Manually
 
-- [Download the latest version of JMerise-mac](https://github.com/tattali/JMerise-mac/releases/latest)
-- Unzip and move the .app file to `/Applications`
+- [Télécharger la dernière version de JMerise](https://github.com/tattali/JMerise-mac/releases/latest)
+- Dézipper et placer le .app dans `/Applications`
