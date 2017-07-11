@@ -13,8 +13,6 @@
   </p>
 </p>
 
-<br>
-
 ## Installation
 
 <!--### Homebrew
